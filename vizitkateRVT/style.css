@@ -1,0 +1,12 @@
+
+  .g{
+    text-align: left;
+  }
+  .a{
+    text-align: center;
+  }
+  .photo{
+    background: url(foto1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
